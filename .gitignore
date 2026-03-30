@@ -4,3 +4,8 @@ my_baseline_ner
 my_baseline_ner_continued
 indices
 *.pkl
+train_raner
+val_raner
+raner
+raner_best_model
+raner_final_model
